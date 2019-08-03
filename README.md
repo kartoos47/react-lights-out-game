@@ -5,4 +5,4 @@ A recreation of an old classic
 
 Link:
 
-https://github.com/kartoos47/react-lights-out-game
+https://kartoos47.github.io/react-lights-out-game/
